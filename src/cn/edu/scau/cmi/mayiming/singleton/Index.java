@@ -41,7 +41,7 @@ class ChairmanPane extends VBox {
 		this.setPrefWidth(200);
 		this.setPrefHeight(100);
 		
-		Button btn = new Button("毛");
+		Button btn = new Button("毛主席");
 		btn.setPrefHeight(60);
 		btn.setPrefWidth(100);
 		
